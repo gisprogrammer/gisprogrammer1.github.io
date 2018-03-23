@@ -294,12 +294,12 @@
    */
   var initialWeatherForecast = {
     key: '523920',
-    label: 'wARSZAWA, PL',
+    label: 'Warszawa, PL',
     created: '2018-03-23T01:00:00Z',
     channel: {
       astronomy: {
-        sunrise: "5:43 am",
-        sunset: "8:21 pm"
+        sunrise: "0:00 am",
+        sunset: "0:00 pm"
       },
       item: {
         condition: {
